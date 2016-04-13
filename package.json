@@ -12,5 +12,13 @@
     "maradona"
   ],
   "author": "Dalma y Yanina",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nescalante/maradona.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nescalante/maradona/issues"
+  },
+  "homepage": "https://github.com/nescalante/maradona#readme"
 }
