@@ -1,6 +1,6 @@
 {
   "name": "maradona",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Diego Armando Maradona",
   "main": "index.js",
   "scripts": {
