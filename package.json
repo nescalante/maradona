@@ -1,0 +1,16 @@
+{
+  "name": "maradona",
+  "version": "0.0.2",
+  "description": "Diego Armando Maradona",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "diego",
+    "armando",
+    "maradona"
+  ],
+  "author": "Dalma y Yanina",
+  "license": "MIT"
+}
