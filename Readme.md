@@ -12,8 +12,10 @@ npm install maradona
 
 # Usage
 
+```js
 var maradona = require('maradona');
 maradona.phrase();
+```
 
 # License
 
