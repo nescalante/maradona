@@ -7,10 +7,14 @@
 Get it from npm:
 
 ```shell
-npm install maradona
+npm install maradona -g
 ```
 
 # Usage
+
+Just type `maradona` in your terminal.
+
+# API
 
 ```js
 var maradona = require('maradona');
